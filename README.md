@@ -27,6 +27,7 @@ This project was built to practice JavaScript DOM manipulation and event handlin
 ### Vasa-Museum-Visitor
 * index.html
 * style.css
+* main.js
 * profil.png
 * README.md
 
